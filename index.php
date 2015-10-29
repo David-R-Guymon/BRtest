@@ -12,6 +12,7 @@
     <p>This is only a test.</p>
     
     <img src="myproducts3b.png" />
+    <p>This is strange.</p>
 </div>
 </body>
 </html>
