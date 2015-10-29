@@ -12,6 +12,7 @@
     <p>This is only a test.</p>
     
     <img src="myproducts3b.png" />
+    <p>Adding a comment line. This is a comment.</p>
 </div>
 </body>
 </html>
