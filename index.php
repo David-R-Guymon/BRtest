@@ -14,6 +14,9 @@
     <img src="myproducts3b.png" />
 
     <p>Adding a comment line. This is a comment.</p>
+    <p>More added content for testing.</p>
+    
+    <p>Last bit to reaffirm sync and pull request process.</p>
 
 </div>
 </body>
