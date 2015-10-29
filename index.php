@@ -14,6 +14,7 @@
     <img src="myproducts3b.png" />
 
     <p>Adding a comment line. This is a comment.</p>
+    <p>More added content for testing.</p>
 
 </div>
 </body>
