@@ -3,7 +3,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Zantrex3 - SkinnyStix</title>
+<title>Test Title</title>
 </head>
 <body>
 
